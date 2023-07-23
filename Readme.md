@@ -1,5 +1,9 @@
 # Curso SASS e SCSS do básico ao avançado + Projetos
 
+![GitHub Workflow Status](https://github.com/FabianaTavares/projeto-agency/workflows/ChangeLog/badge.svg)
+![GitHub package.json version (subfolder of monorepo)](https://img.shields.io/github/package-json/v/FabianaTavares/projeto-agency?color=blue)
+
+
 Este é um conjunto de codigos do curso "Aprenda o básico de SASS e SCSS criando um site" do autor Matheus Battisti, disponível na plataforma Udemy. Segue abaixo o link.
 [Curso SASS e SCSS do básico ao avançado + Projetos](https://www.udemy.com/course/sass-e-scss-do-basico-ao-avancado-projetos)
 
@@ -20,7 +24,10 @@ Todos os recursos serão abordados de forma teórica e depois aplicaremos o mesm
 - Operadores de seleção;
 - E muito mais!
 
-## Este Projeto
+### firebase - Ambiente de Produção
 
-Projeto 1: Agency
-Para visualizar o projeto rodando, basta acessar o [Home instagram Fabiana!]()
+Para visualizar o projeto rodando, basta acessar este [link !](https://projetos-estaticos-fabi.web.app/index.html)
+
+
+OBS: Ainda estou estudando como o firebase para evoluir ainda mais, por enquanto, só projetos estáticos.
+
