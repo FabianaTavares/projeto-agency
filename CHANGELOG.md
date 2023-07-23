@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/FabianaTavares/projeto-agency/compare/v1.0.0...v1.1.0) (2023-07-23)
+
+
+### Funcionalidades
+
+* first commit config ([f98fca2](https://github.com/FabianaTavares/projeto-agency/commit/f98fca282e766f0daecb8607005e3b5eb99a28fd))
+
 ## 1.0.0 (2023-07-23)
 
 ## [3.5.0](https://github.com/FabianaTavares/project-login-register-bs5/compare/v3.4.0...v3.5.0) (2023-07-23)
