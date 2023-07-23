@@ -26,7 +26,7 @@ Todos os recursos serão abordados de forma teórica e depois aplicaremos o mesm
 
 ### firebase - Ambiente de Produção
 
-Para visualizar o projeto rodando, basta acessar este [link !](https://projetos-estaticos-fabi.web.app/index.html)
+Para visualizar o projeto rodando, basta acessar este [link !](https://agency-project.web.app/)
 
 
 OBS: Ainda estou estudando como o firebase para evoluir ainda mais, por enquanto, só projetos estáticos.
